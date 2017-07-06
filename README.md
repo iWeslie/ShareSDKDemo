@@ -9,3 +9,4 @@ A demo used to show the function realization of the ShareSDK
 4.Add the white list.
 5.Add the MOBAppkey and MOBAppSecret to the info.plist.
 6.Initialize the ShareSDK
+7.
