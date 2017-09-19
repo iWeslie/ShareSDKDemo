@@ -1,6 +1,6 @@
 # ShareSDKDemo
-#### * A demo used to show the function realization of the ShareSDK    
-#### * ShraeSDK from [MOB](http://www.mob.com) 
+* #### A demo used to show the function realization of the ShareSDK    
+* #### ShraeSDK from [MOB](http://www.mob.com) 
 - - -
 
  1. pod install    
